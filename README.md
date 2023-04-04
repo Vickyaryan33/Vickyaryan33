@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/vickyaryan33/" target="_blank" style="z-index: 100">
+<a href="https://www.linkedin.com/in/Vickyaryan33/" target="_blank" style="z-index: 100">
   <img align="right" src="https://github.com/Vickyaryan33/Vickyaryan33/raw/main/res/alias.png" height="144px"/>
 </a>
 
