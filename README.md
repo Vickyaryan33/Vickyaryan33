@@ -28,62 +28,35 @@ Lately, I've been inquisitive about architecture of software and systems. I'm re
 
 My primary interest is in full-stack _**Web Development**_, and I've been writing web stack code for the last 5 years. I particularly love working on building interactive apps that people can engage with.
 
-- I prefer using `TypeScript` over `JavaScript`.
-- I prefer `Dockerized` apps and have experience with `docker-compose` and some `Kubernetes`.
-- I've recently been exploring `Rust` and `Web Assembly`.
+- I prefer using  `JavaScript`.
+
+
 - I have a knack for well-documented, clean, and practical code.
 
 #### Languages
 
 ##### Programming
 
-![TypeScript](https://img.shields.io/badge/-TypeScript%204-000?&logo=TypeScript)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20ES6+-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python%203-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java%20SE8-000?&logo=Java)
+
 ![C](https://img.shields.io/badge/-C%2011-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++%2017-000?&logo=c%2b%2b&logoColor=00599C)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 
 ##### Non-programming
 
 ![HTML](https://img.shields.io/badge/-HTML%205-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS%203-000?&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![Bash](https://img.shields.io/badge/-GNU%20Bash-000?&logo=GnuBash)
+
 
 #### Application Development
 
-##### Tools
-
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Webpack](https://img.shields.io/badge/-Webpack%205-000?&logo=Webpack)
-![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 
 ##### Web Development
 
-![Vue](https://img.shields.io/badge/-Vue%203-000?&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React%2017-000?&logo=React)
-![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
-![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 
-##### Databases, Caches, & Message Queues
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Cassandra](https://img.shields.io/badge/-Cassandra-000?&logo=ApacheCassandra)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
 
-##### Testing
-
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Unittest](https://img.shields.io/badge/-unittest-000?&logo=Python)
