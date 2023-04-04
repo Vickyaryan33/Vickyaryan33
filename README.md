@@ -1,5 +1,5 @@
-<a href="https://www.linkedin.com/in/meganindya/" target="_blank" style="z-index: 100">
-  <img align="right" src="https://github.com/meganindya/meganindya/raw/main/res/alias.png" height="144px"/>
+<a href="https://www.linkedin.com/in/vickyaryan33/" target="_blank" style="z-index: 100">
+  <img align="right" src="https://github.com/Vickyaryan33/Vickyaryan33/raw/main/res/alias.png" height="144px"/>
 </a>
 
 # Hi there 👋🏼
@@ -18,7 +18,7 @@ I'm interested in _**Interactive Multimedia**_, _**Creative Coding**_, and _**Vi
 
 ### 🔭 Working on ...
 
-I'm leading the effort in building [_**Music Blocks (v4)**_](https://github.com/sugarlabs/musicblocks-v4), which is based on [_Music Blocks_](https://musicblocks.sugarlabs.org) — a _visual programming language_ platform that aims to engage children in the arts, mathematics, and computation. The goal is to address the challenges encountered due to the original architecture, and build a more robust and reliable application, from the ground up. I also have plans to undertake the development of a _**Physics World**_ simulating _Dynamics_, to aid high school students.
+I'm leading the effort in building [_**Music Blocks (v4)**_], which is based on [_Music Blocks_] — a _visual programming language_ platform that aims to engage children in the arts, mathematics, and computation. The goal is to address the challenges encountered due to the original architecture, and build a more robust and reliable application, from the ground up. I also have plans to undertake the development of a _**Physics World**_ simulating _Dynamics_, to aid high school students.
 
 ### 📚 Learning ...
 
