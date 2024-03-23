@@ -6,7 +6,7 @@
 
 ## I'm Vicky Kumar
 
-I'm a software engineer and have an undergraduate degree in Information Technology. I'm 23 years old. I am a tech enthusiast and actively remain on the watch for new tech products. I like _learning about how things work_ and am _fascinated about how computers work_.
+I'm a software engineer and have an undergraduate degree in Electronicand communications . I'm 23 years old. I am a tech enthusiast and actively remain on the watch for new tech products. I like _learning about how things work_ and am _fascinated about how computers work_.
 
 ### ⚡ Fun facts
 
