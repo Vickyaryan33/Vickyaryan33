@@ -48,7 +48,7 @@ My primary interest is in full-stack _**Web Development**_, and I've been writin
 
 ![HTML](https://img.shields.io/badge/-HTML%205-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS%203-000?&logo=CSS3)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
+![bootstraps](https://img.shields.io/badge/-bootstrap -000?&logo=Sass)
 
 
 #### Application Development
